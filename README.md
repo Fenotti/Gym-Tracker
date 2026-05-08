@@ -39,7 +39,7 @@ Il progetto nasce dalla mia passione per la palestra e l’allenamento fisico. L
 
 ---
 
-## 👨‍💻 Autore
+##  Autore
 
 Progetto scolastico – Gym Tracker  
 Capolavoro per la Piattaforma Unica
