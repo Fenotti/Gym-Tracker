@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.page {
+  min-height: 100vh;
+  padding: 20px;
+  background: linear-gradient(135deg, #1e1e2f, #2b2b45);
+  color: white;
+}
+
+.title {
+  text-align: center;
+  font-size: 42px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.card {
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.blue {
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  color: black;
+}
+
+.purple {
+  background: linear-gradient(135deg, #a18cd1, #fbc2eb);
+  color: black;
+}
+
+.green {
+  background: linear-gradient(135deg, #43e97b, #38f9d7);
+  color: black;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 10px;
+  border: none;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: none;
+  background: #111;
+  color: white;
+  cursor: pointer;
+}
+
+.item {
+  background: white;
+  color: black;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.counter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 8px 0;
+}
+
+.counter button {
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  margin-left: 5px;
+  background: #222;
+  color: white;
+}
