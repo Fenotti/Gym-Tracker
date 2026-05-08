@@ -1,18 +1,45 @@
-# React + Vite
+# 💪 Gym Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Gym Tracker è una semplice web app realizzata con HTML, CSS e JavaScript (React) che permette di registrare e monitorare gli allenamenti in palestra.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Funzionalità
 
-## React Compiler
+- ➕ Aggiunta esercizi di allenamento
+- 🔢 Impostazione serie e ripetizioni con bottoni (+ / -)
+- 🏋️ Inserimento peso utilizzato
+- 📋 Storico degli allenamenti salvato nel browser
+- 💾 Salvataggio dati con LocalStorage
+- ⚖️ Calcolo del BMI (Body Mass Index)
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🧮 Calcolo BMI
 
-## Expanding the ESLint configuration
+Il BMI viene calcolato con la seguente formula:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+BMI = peso / altezza²
+
+---
+
+## 🛠️ Tecnologie utilizzate
+
+- HTML
+- CSS
+- JavaScript
+- React
+- LocalStorage
+
+---
+
+## 🎯 Obiettivo del progetto
+
+Il progetto nasce dalla mia passione per la palestra e l’allenamento fisico. L’obiettivo è creare una piccola applicazione utile per organizzare gli allenamenti e monitorare i progressi, unendo programmazione e vita reale.
+
+---
+
+## 👨‍💻 Autore
+
+Progetto scolastico – Gym Tracker  
+Capolavoro per la Piattaforma Unica
